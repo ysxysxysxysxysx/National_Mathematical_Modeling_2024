@@ -52,11 +52,17 @@
 ## 四、 项目结构
 
 ├── data/
+
 │ └── raw/ # 数据格式说明
+
 ├── src/ # 源代码
+
 ├── results/
+
 │ └── figures/ # 结果图表
+
 ├── README.md # 项目说明
+
 └── requirements.txt # Python依赖
 
 ## 五、数据集
